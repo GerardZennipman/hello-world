@@ -10,4 +10,6 @@ int32_t test_sub(int32_t a, int32_t b);
 int32_t test_mul(int32_t a, int32_t b);
 int32_t test_div(int32_t a, int32_t b);
 
+// Add new functions below this line
+
 #endif // TEST_H
