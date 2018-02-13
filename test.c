@@ -36,3 +36,5 @@ int32_t test_div(int32_t a, int32_t b)
 
     return quotient;
 }
+
+// Add new functions below this line
